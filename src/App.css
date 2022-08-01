@@ -1,3 +1,7 @@
+body {
+  background-color: #23252c;
+}
+
 #root {
   max-width: 1280px;
   margin: 0 auto;
@@ -5,9 +9,17 @@
   text-align: center;
 }
 
-.logo {
-  height: 6em;
-  padding: 1.5em;
+.card-container {
+  background: #1a1b21;
+  border: 1px solid rgba(0, 0, 0, 0);
+  border-radius: 15px;
+}
+
+.headshot {
+  height: 22em;
+  width: 100%;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
   will-change: filter;
 }
 .logo:hover {
