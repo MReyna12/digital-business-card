@@ -2,7 +2,7 @@ import "./index.css";
 
 function About() {
   return (
-    <div>
+    <main>
       <h3 className="card text-align-initial">About</h3>
       <p className="card text-align-initial description-text">
         I am a frontend developer with a particular interest in making things
@@ -14,7 +14,7 @@ function About() {
         Food expert. Music scholar. Reader. Internet fanatic. Bacon buff.
         Entrepeneur. Travel geek. Pop culture ninja. Coffee fanatic.{" "}
       </p>
-    </div>
+    </main>
   );
 }
 
