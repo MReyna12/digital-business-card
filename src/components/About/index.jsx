@@ -5,14 +5,15 @@ function About() {
     <main>
       <h3 className="side-padding text-align-initial">About</h3>
       <p className="side-padding text-align-initial description-text">
-        I am a frontend developer with a particular interest in making things
-        simple and automating daily tasks. I try to keep up with security and
-        best practices, and am always looking for new things to learn.
+        I am an attorney and frontend developer with a particular interest in
+        breaking down complex problems into smaller, easier to solve problems. I
+        try to keep up with best practices, and am always looking to learn new
+        technologies.
       </p>
       <h3 className="side-padding text-align-initial">Interests</h3>
       <p className="side-padding text-align-initial description-text bottom-paragraph-spacing">
-        Food expert. Music scholar. Reader. Internet fanatic. Bacon buff.
-        Entrepeneur. Travel geek. Pop culture ninja. Coffee fanatic.{" "}
+        NBA fan. Colts football enjoyer. Gamer. Binge watcher. Taco fanatic.
+        Music enthusiast. Tamaskan owner.
       </p>
     </main>
   );
