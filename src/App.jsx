@@ -1,5 +1,6 @@
 import "./App.css";
 import About from "./components/About";
+import Footer from "./components/Footer";
 import Information from "./components/Information";
 
 function App() {
@@ -8,9 +9,7 @@ function App() {
       <div className="card-container">
         <Information />
         <About />
-        <p className="read-the-docs">
-          Click on the Vite and React logos to learn more
-        </p>
+        <Footer />
       </div>
     </div>
   );

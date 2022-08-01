@@ -10,7 +10,7 @@ function About() {
         best practices, and am always looking for new things to learn.
       </p>
       <h3 className="card text-align-initial">Interests</h3>
-      <p className="card text-align-initial description-text">
+      <p className="card text-align-initial description-text bottom-paragraph-spacing">
         Food expert. Music scholar. Reader. Internet fanatic. Bacon buff.
         Entrepeneur. Travel geek. Pop culture ninja. Coffee fanatic.{" "}
       </p>

@@ -20,7 +20,7 @@ function Information() {
         </a>
       </p>
       <div className="card">
-        <button>
+        <button onClick={() => (window.location = "mailto:MReyna12@live.com")}>
           <img src={mail} alt="Mail envelope icon" /> Email
         </button>
       </div>
