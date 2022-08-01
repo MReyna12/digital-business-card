@@ -10,6 +10,7 @@ body {
 }
 
 .card-container {
+  max-width: 372px;
   margin: 0 auto;
   background: #1a1b21;
   border: 1px solid rgba(0, 0, 0, 0);
@@ -17,8 +18,8 @@ body {
 }
 
 .card {
-  padding-left: 2em;
-  padding-right: 2em;
+  padding-left: 2rem;
+  padding-right: 2rem;
 }
 
 .read-the-docs {
