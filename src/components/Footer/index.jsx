@@ -6,7 +6,7 @@ import "./index.css";
 function Footer() {
   return (
     <footer>
-      <div className="card icons">
+      <div className="side-padding icons">
         <a href="https://github.com/MReyna12">
           <img src={github} alt="github icon" />
         </a>

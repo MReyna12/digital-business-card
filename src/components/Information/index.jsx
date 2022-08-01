@@ -12,14 +12,14 @@ function Information() {
           alt="Headshot photograph of Michael Reyna"
         />
       </div>
-      <h1 className="card">Michael Reyna</h1>
-      <h2 className="card">Frontend Developer</h2>
-      <p className="portfolio card">
+      <h1 className="side-padding">Michael Reyna</h1>
+      <h2 className="side-padding">Frontend Developer</h2>
+      <p className="portfolio side-padding">
         <a href="https://mreyna12.github.io/portfolioWebsite/">
           Portfolio Website
         </a>
       </p>
-      <div className="card">
+      <div className="side-padding">
         <button onClick={() => (window.location = "mailto:MReyna12@live.com")}>
           <img src={mail} alt="Mail envelope icon" /> Email
         </button>
